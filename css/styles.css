@@ -1,10 +1,10 @@
 h1 {
-  color: #CB4B30;
+  color: black;
   text-align: center;
 }
 
 h2 {
-  color: green;
+  color: white;
   font-style: italic;
   text-align: center;
 }
@@ -21,6 +21,7 @@ body{
   margin-top: inherit;
   background-repeat: no-repeat;
   background-size: cover;
+  color: white;
 
 }
 img{
