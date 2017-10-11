@@ -19,6 +19,8 @@ body{
   background-image: url("https://ak1.picdn.net/shutterstock/videos/16571551/thumb/1.jpg?i10c=img.resize(height:160)");
   display: block;
   margin-top: inherit;
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
 img{
