@@ -1,5 +1,5 @@
 h1 {
-  color: black;
+  color: white;
   text-align: center;
   font-family: sans-serif;
   font-size: 50px;
@@ -9,14 +9,14 @@ p {
   font-family: "Comic Sans Ms";
   font-weight: bold;
   font-size: 35;
+  color: white;
 }
 
 body{
-  background-image: url("https://i.pinimg.com/originals/06/7c/a7/067ca731338b6dbe22df67a28fcbdd32.jpg");
+  background-image:  url("http://www.africauncovered.com/media/assets/67/a772f7af642ea81a76de24c1cf32b3b80b876d.jpg");
   display: block;
   background-repeat: no-repeat;
   background-size: cover;
-  color: white;
   float: left;
 }
 
@@ -30,7 +30,7 @@ header{
 
 }
 
-header ul li a{
+ul li a {
   font-weight: 1000;
   font-family: sans-serif;
   color: white;
@@ -39,7 +39,7 @@ header ul li a{
   text-decoration: none;
 }
 
-header ul li {
+ul li {
   display: inline-block;
   margin-right: 50px;
 
