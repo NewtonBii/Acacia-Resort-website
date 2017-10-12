@@ -25,21 +25,24 @@ img{
 }
 header{
   list-style-type: none;
-  background-color: none;
+  background-image: url("http://www.muaythaischolar.com/wp-content/uploads/2015/01/Fotolia_62576466_Subscription_Monthly_M-1024x682.jpg");
   width: 70%;
 
 }
 
 header ul li a{
-  font-weight: bolder;
+  font-weight: 1000;
   font-family: sans-serif;
-  color: #2A3024;
+  color: white;
   display: inline-block;
+  font-size: 25px;
+  text-decoration: none;
 }
 
 header ul li {
   display: inline-block;
-  margin-right: 10px;
+  margin-right: 50px;
+
 }
 
 .columns {

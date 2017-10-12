@@ -1,0 +1,35 @@
+h1 {
+  color: black;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 50px;
+}
+
+p {
+  font-family: "Comic Sans Ms";
+  font-weight: bold;
+  font-size: 35;
+  float: left;
+}
+
+body{
+  background-image: url("https://i.pinimg.com/originals/06/7c/a7/067ca731338b6dbe22df67a28fcbdd32.jpg");
+  display: block;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+img{
+  width: 50%;
+}
+
+header{
+  list-style-type: none;
+  background-color: none;
+  width: 100%;
+}
+
+.columns {
+  column-fill: white;
+}
