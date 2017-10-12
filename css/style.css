@@ -8,21 +8,21 @@ h1 {
 p {
   font-family: "Comic Sans Ms";
   font-weight: bold;
-  font-size: 35;
-  float: right;
+  font-size: 55;
+  float: left;
 }
 
 body{
   background-image: url("http://www.africauncovered.com/media/assets/67/a772f7af642ea81a76de24c1cf32b3b80b876d.jpg");
   display: block;
   background-repeat: no-repeat;
-  background-size: contain;
-  float: left;
+  background-size: cover;
+float: left;
 }
 
 img{
   width: 50%;
-  float: left;
+  float: right;
 }
 
 header{
@@ -33,6 +33,10 @@ header{
 
 header ul{
   float: right;
+}
+
+header ul li{
+  font-size: 20px;
 }
 
 .columns {
