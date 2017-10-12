@@ -14,7 +14,8 @@ h2 {
 p {
   font-family: "Comic Sans Ms";
   font-weight: bold;
-  font-size: 20;
+  font-size: 15;
+
 }
 
 body{
@@ -24,9 +25,17 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
+  float: left;
 
 }
 img{
   width: 20%;
   position: relative;
+}
+.sidebar{
+  float: right;
+  font-weight: bold;
+  text-indent: inherit;
+  font-size: 40px;
+  width: 50%;
 }
