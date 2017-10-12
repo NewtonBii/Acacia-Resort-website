@@ -35,13 +35,13 @@ ul li a {
   font-family: sans-serif;
   color: white;
   display: inline-block;
-  font-size: 25px;
+  font-size: 30px;
   text-decoration: none;
 }
 
 ul li {
   display: inline-block;
-  margin-right: 50px;
+  margin-right: 100px;
 
 }
 
